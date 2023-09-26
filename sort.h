@@ -50,4 +50,6 @@ void swap_cocktail_nodes(listint_t **list, listint_t *node1, listint_t *node2);
 /* Task 6: */
 void counting_sort(int *array, size_t size);
 
+/* Task 7: */
+void merge_sort(int *array, size_t size);
 #endif
